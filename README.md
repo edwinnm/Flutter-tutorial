@@ -1,6 +1,6 @@
-# wordpair_generator
+# First Flutter App
 
-A new Flutter project.
+A new Flutter project. Simple Counter
 
 ## Getting Started
 
